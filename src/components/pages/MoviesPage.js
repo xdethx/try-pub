@@ -14,7 +14,7 @@ class  MoviesPage extends Component {
         
         return (
 
-            <div> <h2>movies page </h2> 
+            <div> <h2>movies page h1 </h2> 
             
             <MoviesList movies={this.props.movies}> </MoviesList>
             </div>
